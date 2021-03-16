@@ -24,7 +24,7 @@ resources :
 
     type : github
 
-    endpoint : 'Testing DevOps'
+    endpoint : dpravinacr
 
     name : ILiuACR/shared-azure-pipeline-templates
 
