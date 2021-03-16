@@ -24,7 +24,7 @@ resources :
 
     type : github
 
-    endpoint : MyProject
+    endpoint : Testing DevOps
 
     name : ILiuACR/shared-azure-pipeline-templates
 
@@ -145,7 +145,7 @@ extends :
         artifact : 'buildArtifacts'
 
         publishLocation : 'pipeline'
-        
+
     #Choose if the project needs to use self hosted agents instead of Microsoft hosted agent
 
     #For example, if project needs to restore nuget packages which are hosted in ACR internal package server, then needs to use self hosted agents
